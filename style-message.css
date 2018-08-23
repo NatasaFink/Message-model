@@ -1,0 +1,21 @@
+body {
+  background: url(gmail-cover.png) no-repeat top fixed;
+  background-size: auto;
+}
+table, th, td {
+  width: 80%;
+  margin: auto;
+  border: 1px solid white;
+  border-collapse:collapse;
+  text-align: center;
+  font-size: 30px;
+  table-layout: fixed;
+  background: lightgray;
+  opacity: 0.5
+  color:white;
+  margin-top: 676px;
+}
+th, td {
+  padding: 20px;
+  opacity: 0.9;
+}
